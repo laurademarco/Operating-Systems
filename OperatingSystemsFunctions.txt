@@ -3,3 +3,4 @@ One of the functions of the Operating System is to organize the file system into
 The directories have other directories and other files. 
 Information regarding the files, user access details and settings and the running status of each file is monitored and logged by OS. 
 This helps the user to check the files and provide details of the files by checking the logs and the time duration.
+Another Operating system function is to constantly monitor the system to detect errors and avoid the malfunctioning of computer system.
