@@ -1,0 +1,5 @@
+The Operating System as a computing device that helps the user to do the tasks assigned to it. 
+One of the functions of the Operating System is to organize the file system into directories so that the files can be easily searched and used whenever needed. 
+The directories have other directories and other files. 
+Information regarding the files, user access details and settings and the running status of each file is monitored and logged by OS. 
+This helps the user to check the files and provide details of the files by checking the logs and the time duration.
